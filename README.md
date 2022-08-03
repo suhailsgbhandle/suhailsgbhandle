@@ -30,7 +30,7 @@
 
 
 <h3 align="left">Statistics:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhailsgbhandle&show_icons=true&locale=en" alt="suhailsgbhandle" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suhailsgbhandle&show_icons=true&locale=en" alt="suhailsgbhandle" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhailsgbhandle&" alt="suhailsgbhandle" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhailsgbhandle&show_icons=true&locale=en&layout=compact" alt="suhailsgbhandle" /></p>
 
